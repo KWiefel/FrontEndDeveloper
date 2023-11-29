@@ -1,0 +1,19 @@
+.project_card {
+  color: #90a0d9;
+  width: 300px;
+  padding: 1em;
+  text-align: center;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.142);
+  margin-top: 24px;
+}
+
+.project_card h3 {
+  font-weight: 900;
+  padding-bottom: 8px;
+  font-family: "Poppins-Bold";
+}
+
+.bold {
+  font-family: "Poppins-Bold";
+  padding: 16px;
+}

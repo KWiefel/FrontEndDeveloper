@@ -1,0 +1,28 @@
+.skills__wrapper {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+
+.skills {
+  margin-top: 56px;
+}
+
+.skills h1 {
+  font-family: "Poppins-Bold";
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  color: #90a0d9;
+  padding-bottom: 16px;
+  font-size: 2em;
+}
+
+.skills p {
+  color: #90a0d9;
+  padding: 0.5em 1em;
+  width: fit-content;
+  font-family: "Poppins-Bold";
+  background-color: #2a2f4c;
+  margin-top: 8px;
+}

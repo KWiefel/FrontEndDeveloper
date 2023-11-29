@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+}
+
+.footer h3 {
+  color: #90a0d9;
+  font-family: "Poppins-Bold";
+  text-transform: uppercase;
+  padding-top: 64px;
+  padding-bottom: 24px;
+  font-size: 2em;
+}
+
+.footer p {
+  color: #90a0d9;
+  padding-top: 64px;
+  padding-bottom: 16px;
+}
